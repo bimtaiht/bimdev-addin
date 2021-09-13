@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bimdev-learning/static/css/main.c41c8fb6.chunk.css",
-    "main.js": "/bimdev-learning/static/js/main.5f607ce9.chunk.js",
-    "main.js.map": "/bimdev-learning/static/js/main.5f607ce9.chunk.js.map",
-    "runtime-main.js": "/bimdev-learning/static/js/runtime-main.b5a79f81.js",
-    "runtime-main.js.map": "/bimdev-learning/static/js/runtime-main.b5a79f81.js.map",
-    "static/css/2.ae1894b5.chunk.css": "/bimdev-learning/static/css/2.ae1894b5.chunk.css",
-    "static/js/2.16756c5e.chunk.js": "/bimdev-learning/static/js/2.16756c5e.chunk.js",
-    "static/js/2.16756c5e.chunk.js.map": "/bimdev-learning/static/js/2.16756c5e.chunk.js.map",
-    "static/js/3.e4cfbe57.chunk.js": "/bimdev-learning/static/js/3.e4cfbe57.chunk.js",
-    "static/js/3.e4cfbe57.chunk.js.map": "/bimdev-learning/static/js/3.e4cfbe57.chunk.js.map",
-    "index.html": "/bimdev-learning/index.html",
-    "static/css/2.ae1894b5.chunk.css.map": "/bimdev-learning/static/css/2.ae1894b5.chunk.css.map",
-    "static/css/main.c41c8fb6.chunk.css.map": "/bimdev-learning/static/css/main.c41c8fb6.chunk.css.map",
-    "static/js/2.16756c5e.chunk.js.LICENSE.txt": "/bimdev-learning/static/js/2.16756c5e.chunk.js.LICENSE.txt"
+    "main.css": "/bimdev-addin/static/css/main.c41c8fb6.chunk.css",
+    "main.js": "/bimdev-addin/static/js/main.de83dd95.chunk.js",
+    "main.js.map": "/bimdev-addin/static/js/main.de83dd95.chunk.js.map",
+    "runtime-main.js": "/bimdev-addin/static/js/runtime-main.ba4d9c50.js",
+    "runtime-main.js.map": "/bimdev-addin/static/js/runtime-main.ba4d9c50.js.map",
+    "static/css/2.ae1894b5.chunk.css": "/bimdev-addin/static/css/2.ae1894b5.chunk.css",
+    "static/js/2.05dd19e1.chunk.js": "/bimdev-addin/static/js/2.05dd19e1.chunk.js",
+    "static/js/2.05dd19e1.chunk.js.map": "/bimdev-addin/static/js/2.05dd19e1.chunk.js.map",
+    "static/js/3.e4cfbe57.chunk.js": "/bimdev-addin/static/js/3.e4cfbe57.chunk.js",
+    "static/js/3.e4cfbe57.chunk.js.map": "/bimdev-addin/static/js/3.e4cfbe57.chunk.js.map",
+    "index.html": "/bimdev-addin/index.html",
+    "static/css/2.ae1894b5.chunk.css.map": "/bimdev-addin/static/css/2.ae1894b5.chunk.css.map",
+    "static/css/main.c41c8fb6.chunk.css.map": "/bimdev-addin/static/css/main.c41c8fb6.chunk.css.map",
+    "static/js/2.05dd19e1.chunk.js.LICENSE.txt": "/bimdev-addin/static/js/2.05dd19e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5a79f81.js",
+    "static/js/runtime-main.ba4d9c50.js",
     "static/css/2.ae1894b5.chunk.css",
-    "static/js/2.16756c5e.chunk.js",
+    "static/js/2.05dd19e1.chunk.js",
     "static/css/main.c41c8fb6.chunk.css",
-    "static/js/main.5f607ce9.chunk.js"
+    "static/js/main.de83dd95.chunk.js"
   ]
 }
